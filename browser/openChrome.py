@@ -3,7 +3,7 @@ from selenium import  webdriver
 
 ops = webdriver.ChromeOptions()
 ops.add_argument("--disable-notifications")
-env =  "win"
+env =  "mac"
 
 if  env is "win":
     path = "..//driver//chromedriver.exe"
