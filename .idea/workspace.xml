@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f11d891-89bc-4331-8ddc-918bef2c1c39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Chandrayan3Proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rio_de_janeiro/browser/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rio_de_janeiro/browser/openChrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rio_de_janeiro/driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rio_de_janeiro/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rio_de_janeiro/driver/geckodriver" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1/DemoVariables.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day10/LaunchChromeBrw.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day12/openChrome.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/ListDemo.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/example.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/ParsingFile.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/RegEx.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/RegularExpression.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/data.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/jsonRead.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1/dummy.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1/dummy.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1/keywordsList.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1/keywordsList.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day2/selenium.log" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day2/selenium.log" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/ExampleTuple.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/ExampleTuple.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/demoDict.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/demoDict.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/exampleDict.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/exampleDict.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/selenium.log" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/selenium.log" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/DummyReadXlsx.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/DummyReadXlsx.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/TestData.xlsx" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/TestData.xlsx" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/WriteExcel.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/WriteExcel.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/readWrXlsx.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/readWrXlsx.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/read_xlsx.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day9/read_xlsx.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/appium_ios_android/launch_App.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/appium_ios_android/launch_App.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/basicSyn/emailList.ini" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/basicSyn/emailList.ini" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/basicSyn/variable.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/PythonSeleniumProject/basicSyn/variable.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BrowserLaunch/launchChrome.py" />
+        <option value="$PROJECT_DIR$/BrowserLaunch/openBrowser.py" />
+        <option value="$PROJECT_DIR$/Day1/byID.py" />
+        <option value="$USER_HOME$/PycharmProjects/PythonSeleniumProject/basicSyn/variable.py" />
+        <option value="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/ExampleTuple.py" />
+        <option value="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/example.py" />
+        <option value="$PROJECT_DIR$/Locators/byID.py" />
+        <option value="$PROJECT_DIR$/Locators/byName.py" />
+        <option value="$PROJECT_DIR$/Locators/ByClassName.py" />
+        <option value="$PROJECT_DIR$/Locators/ByLinkText.py" />
+        <option value="$PROJECT_DIR$/Locators/ByPartialLinkText.py" />
+        <option value="$PROJECT_DIR$/browser/openChrome.py" />
+        <option value="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1/DemoVariables.py" />
+        <option value="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1/keywordsList.py" />
+        <option value="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1/dummy.py" />
+        <option value="$PROJECT_DIR$/Locators/ByIDLoctor.py" />
+        <option value="$PROJECT_DIR$/Locators/By_ClassName.py" />
+        <option value="$PROJECT_DIR$/Locators/By_LinkText.py" />
+        <option value="$PROJECT_DIR$/Locators/By_PartialLinkText.py" />
+        <option value="$PROJECT_DIR$/Locators/ByTagName.py" />
+        <option value="$PROJECT_DIR$/Locators/ByCssSelector.py" />
+        <option value="$PROJECT_DIR$/Locators/ByCssSelectorByClass.py" />
+        <option value="$PROJECT_DIR$/Locators/ByCssSelectorByTagAttribute.py" />
+        <option value="$PROJECT_DIR$/Locators/ByCssSelectorByStartsWith.py" />
+        <option value="$PROJECT_DIR$/Locators/ByCssSelectorByEndsWith.py" />
+        <option value="$PROJECT_DIR$/Locators/ByCssSelectorByContains.py" />
+        <option value="$PROJECT_DIR$/Locators/absuloteXpath.py" />
+        <option value="$PROJECT_DIR$/Locators/relativeXpath.py" />
+        <option value="$PROJECT_DIR$/Locators/privacyCheckAlert.py" />
+        <option value="$PROJECT_DIR$/Locators/ByUsingContains.py" />
+        <option value="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day12/openChrome.py" />
+        <option value="$PROJECT_DIR$/../rio_de_janeiro/Day1/setExample.py" />
+        <option value="$PROJECT_DIR$/../rio_de_janeiro/Day1/CastingListToSet.py" />
+        <option value="$PROJECT_DIR$/../rio_de_janeiro/Day1/ListSort.py" />
+        <option value="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/ListDemo.py" />
+        <option value="$PROJECT_DIR$/../rio_de_janeiro/Day1/ListOfLang.py" />
+        <option value="$PROJECT_DIR$/../rio_de_janeiro/Day1/ExampleOfDict.py" />
+        <option value="$PROJECT_DIR$/../rio_de_janeiro/Day2/ifCondition.py" />
+        <option value="$PROJECT_DIR$/../rio_de_janeiro/Day2/ifElifCondition.py" />
+        <option value="$PROJECT_DIR$/../rio_de_janeiro/Day2/ifElifElseConditions.py" />
+        <option value="$PROJECT_DIR$/../rio_de_janeiro/Day2/rangeFunctions.py" />
+        <option value="$PROJECT_DIR$/Locators/ByTextFunction.py" />
+        <option value="$PROJECT_DIR$/Locators/ByTextAttribute.py" />
+        <option value="$PROJECT_DIR$/Assignment/Assignment1" />
+        <option value="$PROJECT_DIR$/Locators/ByAndOr.py" />
+        <option value="$PROJECT_DIR$/Locators/ByStartsWith.py" />
+        <option value="$PROJECT_DIR$/Locators/ByFollowing.py" />
+        <option value="$PROJECT_DIR$/Locators/ByPreceding.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Locators" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Locators" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Locators" />
+      <recent name="$PROJECT_DIR$/../rio_de_janeiro" />
+      <recent name="$PROJECT_DIR$/../rio_de_janeiro/Day1" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ByPreceding">
+    <configuration name="ByAndOr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Chandrayan3Proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Locators/ByAndOr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ByFollowing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Chandrayan3Proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Locators/ByFollowing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ByPreceding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Chandrayan3Proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Locators/ByPreceding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ByStartsWith" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Chandrayan3Proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Locators/ByStartsWith.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ByTextAttribute" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Chandrayan3Proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Locators/ByTextAttribute.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ByPreceding" />
+        <item itemvalue="Python.ByFollowing" />
+        <item itemvalue="Python.ByStartsWith" />
+        <item itemvalue="Python.ByAndOr" />
+        <item itemvalue="Python.ByTextAttribute" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f11d891-89bc-4331-8ddc-918bef2c1c39" name="Default Changelist" comment="" />
+      <created>1568001785098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568001785098</updated>
+      <workItem from="1568001786475" duration="1398000" />
+      <workItem from="1568132803736" duration="712000" />
+      <workItem from="1568166593825" duration="4542000" />
+      <workItem from="1568253249048" duration="160000" />
+      <workItem from="1568339875922" duration="202000" />
+      <workItem from="1568435965621" duration="972000" />
+      <workItem from="1568460592958" duration="6334000" />
+      <workItem from="1568601605548" duration="705000" />
+      <workItem from="1568604507664" duration="2181000" />
+      <workItem from="1568689177245" duration="2559000" />
+      <workItem from="1568772726277" duration="6841000" />
+    </task>
+    <task id="LOCAL-00001" summary="Started Selenium with ID locator">
+      <created>1568003132605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568003132605</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Selenium with Name locator">
+      <created>1568003645166</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568003645166</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Locators ID,NAME&lt;CALSSNAME,LINKTEXT,PLINKTEXT,TAGNAME">
+      <created>1568176313098</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568176313098</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chrome ops">
+      <created>1568176348063</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568176348063</updated>
+    </task>
+    <task id="LOCAL-00005" summary="locators ppt">
+      <created>1568176411223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568176411223</updated>
+    </task>
+    <task id="LOCAL-00006" summary="locators css,id,name,classname,linktext,plinktext">
+      <created>1568531659682</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568531659682</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Absolute,Relative,text()  and contains in xpath">
+      <created>1568607947264</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568607947264</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated chrome">
+      <created>1568608012366</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568608012366</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated chrome">
+      <created>1568777435371</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568777435371</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add all assignment">
+      <created>1568777526773</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568777526773</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add all assignment, xpath with different locators">
+      <created>1568781665774</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568781665774</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26606000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21843252" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40025252" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989899" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32828283" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32954547" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32954547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started Selenium with ID locator" />
+    <MESSAGE value="Selenium with Name locator" />
+    <MESSAGE value="Locators ID,NAME&lt;CALSSNAME,LINKTEXT,PLINKTEXT,TAGNAME" />
+    <MESSAGE value="chrome ops" />
+    <MESSAGE value="locators ppt" />
+    <MESSAGE value="locators css,id,name,classname,linktext,plinktext" />
+    <MESSAGE value="Absolute,Relative,text()  and contains in xpath" />
+    <MESSAGE value="updated chrome" />
+    <MESSAGE value="Add all assignment" />
+    <MESSAGE value="Add all assignment, xpath with different locators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add all assignment, xpath with different locators" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$variable.coverage" NAME="variable Coverage Results" MODIFIED="1568166853912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/PythonSeleniumProject/basicSyn" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByCssSelectorByStartsWith.coverage" NAME="ByCssSelectorByStartsWith Coverage Results" MODIFIED="1568531159046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$keywordsList.coverage" NAME="keywordsList Coverage Results" MODIFIED="1568461981135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByCssSelectorByClass.coverage" NAME="ByCssSelectorByClass Coverage Results" MODIFIED="1568530458742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByIDLoctor.coverage" NAME="ByIDLoctor Coverage Results" MODIFIED="1568527442895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ListOfLang.coverage" NAME="ListOfLang Coverage Results" MODIFIED="1568774768849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../rio_de_janeiro/Day1" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByLinkText.coverage" NAME="ByLinkText Coverage Results" MODIFIED="1568175441589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByClassName.coverage" NAME="ByClassName Coverage Results" MODIFIED="1568174866554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$By_PartialLinkText.coverage" NAME="By_PartialLinkText Coverage Results" MODIFIED="1568529496929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ExampleOfDict.coverage" NAME="ExampleOfDict Coverage Results" MODIFIED="1568775224925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../rio_de_janeiro/Day1" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByCssSelectorByTagAttribute.coverage" NAME="ByCssSelectorByTagAttribute Coverage Results" MODIFIED="1568531151958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ListDemo.coverage" NAME="ListDemo Coverage Results" MODIFIED="1568691363145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByTextAttribute.coverage" NAME="ByTextAttribute Coverage Results" MODIFIED="1568779158215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByPartialLinkText.coverage" NAME="ByPartialLinkText Coverage Results" MODIFIED="1568175748647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$openChrome.coverage" NAME="openChrome Coverage Results" MODIFIED="1568689494174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day12" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$byID.coverage" NAME="byID Coverage Results" MODIFIED="1568437430222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$CastingListToSet.coverage" NAME="CastingListToSet Coverage Results" MODIFIED="1568690817327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../rio_de_janeiro/Day1" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByStartsWith.coverage" NAME="ByStartsWith Coverage Results" MODIFIED="1568780752442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$relativeXpath.coverage" NAME="relativeXpath Coverage Results" MODIFIED="1568606287376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$absuloteXpath.coverage" NAME="absuloteXpath Coverage Results" MODIFIED="1568606085287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByTextFunction.coverage" NAME="ByTextFunction Coverage Results" MODIFIED="1568778314453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByAndOr.coverage" NAME="ByAndOr Coverage Results" MODIFIED="1568780414581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByFollowing.coverage" NAME="ByFollowing Coverage Results" MODIFIED="1568781093810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$By_ClassName.coverage" NAME="By_ClassName Coverage Results" MODIFIED="1568529015521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByCssSelectorByContains.coverage" NAME="ByCssSelectorByContains Coverage Results" MODIFIED="1568531326537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$variableRules.coverage" NAME="variableRules Coverage Results" MODIFIED="1568462296828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$byName.coverage" NAME="byName Coverage Results" MODIFIED="1568528427477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$gotomeeting.coverage" NAME="gotomeeting Coverage Results" MODIFIED="1568772742840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/PythonSeleniumProject/basicSyn" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$DemoVariables.coverage" NAME="DemoVariables Coverage Results" MODIFIED="1568461977994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ListSort.coverage" NAME="ListSort Coverage Results" MODIFIED="1568691161846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../rio_de_janeiro/Day1" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByCssSelectorByEndsWith.coverage" NAME="ByCssSelectorByEndsWith Coverage Results" MODIFIED="1568531244518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByUsingContains.coverage" NAME="ByUsingContains Coverage Results" MODIFIED="1568689319996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$By_LinkText.coverage" NAME="By_LinkText Coverage Results" MODIFIED="1568529292119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ExampleTuple.coverage" NAME="ExampleTuple Coverage Results" MODIFIED="1568168889141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$privacyCheckAlert.coverage" NAME="privacyCheckAlert Coverage Results" MODIFIED="1568606589778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$example.coverage" NAME="example Coverage Results" MODIFIED="1568167346462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByTagName.coverage" NAME="ByTagName Coverage Results" MODIFIED="1568529839225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$rangeFunctions.coverage" NAME="rangeFunctions Coverage Results" MODIFIED="1568778307763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../rio_de_janeiro/Day2" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ifCondition.coverage" NAME="ifCondition Coverage Results" MODIFIED="1568775901140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../rio_de_janeiro/Day2" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByPreceding.coverage" NAME="ByPreceding Coverage Results" MODIFIED="1568781531988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ByCssSelector.coverage" NAME="ByCssSelector Coverage Results" MODIFIED="1568530345628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Locators" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ifElifElseConditions.coverage" NAME="ifElifElseConditions Coverage Results" MODIFIED="1568776540855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../rio_de_janeiro/Day2" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$dummy.coverage" NAME="dummy Coverage Results" MODIFIED="1568462300099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1" />
+    <SUITE FILE_PATH="coverage/Chandrayan3Proj$ifElifCondition.coverage" NAME="ifElifCondition Coverage Results" MODIFIED="1568776119995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../rio_de_janeiro/Day2" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1/stringConcatination.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1/StrConcatination.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1/variableRules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1/dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day1/Variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/byName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByIDLoctor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/browser/openChrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/By_ClassName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/By_LinkText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/By_PartialLinkText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByTagName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByCssSelectorByID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByCssSelectorByClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByCssSelectorByTagAttribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByCssSelectorByStartsWith.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByCssSelectorByEndsWith.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByCssSelectorByContains.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/ExampleTuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day12/openChrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByUsingContains.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/privacyCheckAlert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/relativeXpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/absuloteXpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="91" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/LaunchBrowsers/openBrowser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../rio_de_janeiro/Day1/setExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../rio_de_janeiro/Day1/CastingListToSet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/list_methods.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/set.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../rio_de_janeiro/Day1/set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/basicSyn/gotomeeting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day3/ListDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#14#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../rio_de_janeiro/Day1/ListSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../rio_de_janeiro/browser/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../rio_de_janeiro/browser/openChrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../rio_de_janeiro/Day1/ListOfLang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../rio_de_janeiro/Day1/ExampleOfDict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../rio_de_janeiro/Day2/ifCondition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../rio_de_janeiro/Day2/ifElifCondition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../rio_de_janeiro/Day2/ifElifElseConditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day4/RandomChar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day4/rangeDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="1" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../rio_de_janeiro/Day2/rangeFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment/Assignment1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByTextAttribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByTextFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByAndOr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByStartsWith.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByFollowing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/ByPreceding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

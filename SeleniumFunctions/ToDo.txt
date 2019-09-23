@@ -1,7 +1,7 @@
 0. Builtins (Done)
-1. Alerts / popups
-2. dropdowns
-3. radio btn
+1. Alerts / popups (Done)
+2. dropdowns / select /deselect (done)
+3. radio btn (done)
 4. checkbox
 5. textbox
 6. fileupload

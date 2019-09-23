@@ -2,7 +2,7 @@ import browser.openChrome as op
 from selenium.webdriver.common.keys import Keys
 import time
 
-
+op.driver.fullscreen_window()
 op.driver.get("https://www.google.com")
 print("Current url :  ",op.driver.current_url)
 op.driver.find_element_by_name("q").send_keys("Selenium jobs",Keys.ENTER)
