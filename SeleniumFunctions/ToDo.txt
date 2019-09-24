@@ -2,17 +2,17 @@
 1. Alerts / popups (Done)
 2. dropdowns / select /deselect (done)
 3. radio btn (done)
-4. checkbox
-5. textbox
-6. fileupload
-7. file download
+4. checkbox (done)
+5. textbox (done)
+6. fileupload (done)
+7. file download (done) need to discuss on particular path download
 8. webtable / calender
-9. cloud execution (new grid)
-10. frames
+9. cloud execution (new grid) (done)
+10. frames (done)
 11. windows
 12. scroll
 13. js highlighting elements
-14. disselect dropdown
+14. disselect dropdown (done)
 15. getattributes
 16. mouse actions
 17. screenshots
