@@ -6,7 +6,7 @@
 5. textbox (done)
 6. fileupload (done)
 7. file download (done) need to discuss on particular path download
-8. webtable / calender
+8. webtable / calender / autosuggtion (Done)
 9. cloud execution (new grid) (done)
 10. frames (done)
 11. windows
