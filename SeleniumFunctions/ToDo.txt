@@ -5,12 +5,12 @@
 4. checkbox (done)
 5. textbox (done)
 6. fileupload (done)
-7. file download (done) need to discuss on particular path download
+7. file download (done) need to discuss on particular path download (done)
 8. webtable / calender / autosuggtion (Done)
 9. cloud execution (new grid) (done)
 10. frames (done)
-11. windows
-12. scroll
+11. windows (Done)
+12. scroll (in-complete)
 13. js highlighting elements
 14. disselect dropdown (done)
 15. getattributes
