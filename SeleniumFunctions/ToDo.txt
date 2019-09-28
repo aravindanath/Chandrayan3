@@ -15,14 +15,13 @@
 14. disselect dropdown (done)
 15. getattributes (done)
 16. mouse actions (done)
-17. screenshots
+17. screenshots (done)
 18. cookies
 19. autosuggest (done)
 20. DB
 30. drag n drop (done)
 31. waits
-32. Assertion
-
+32. Assertion (pytest and unittest) also normal assertion
 32 PYTEST / UNIT Test / HTML Report (ALURE Report) / suite execution / parallel execution
 33.Framework development (ALURE Report)
 34.jenkin integration
