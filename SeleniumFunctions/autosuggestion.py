@@ -39,6 +39,7 @@ class AutoSuggestion():
         deptDate = op.driver.find_elements(By.XPATH, "//div[@id='rb-calendar_onward_cal']/table[1]//td")
 
         for d in deptDate:
+
             if d.text == '29':
                 d.click()
                 break;
