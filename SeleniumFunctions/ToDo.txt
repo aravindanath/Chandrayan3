@@ -16,11 +16,11 @@
 15. getattributes (done)
 16. mouse actions (done)
 17. screenshots (done)
-18. cookies
+18. cookies (done)
 19. autosuggest (done)
-20. DB
+20. DB (done)
 30. drag n drop (done)
-31. waits
+31. waits (done)
 32. Assertion (pytest and unittest) also normal assertion
 32 PYTEST / UNIT Test / HTML Report (ALURE Report) / suite execution / parallel execution
 33.Framework development (ALURE Report)
