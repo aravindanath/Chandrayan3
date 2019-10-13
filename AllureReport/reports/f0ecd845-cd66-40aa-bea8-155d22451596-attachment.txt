@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_allure_fail.py:33 User is entering URL
+[32mINFO    [0m root:test_allure_fail.py:38 User is on https://www.facebook.com/
