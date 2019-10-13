@@ -1,0 +1,22 @@
+http://allure.qatools.ru/
+
+https://docs.qameta.io/allure/#_installing_a_commandline
+Manual installation
+zip and add to env
+(http://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/2.13.0/)
+
+
+TestCase ---> xml report -----> allure html report (command line)
+allure server all
+
+pip install allure-pytest
+
+
+
+--vv --capture=fd --alluredir = path
+
+ pytest test_allure.py --verbose --capture=fd --alluredir ="/Users/aravindanathdm/Documents/class/Python Selenium/Reports"
+
+
+
+https://docs.python.org/3/library/logging.html
