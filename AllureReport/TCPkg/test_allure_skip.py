@@ -20,7 +20,7 @@ def setUp():
 def test_case_a(setUp):
     with allure.step("Amazon login"):
         allure.title("Test case amzxon.com")
-        driver.get("https://www.amazon.in")
+        driver.get("https://www.amazon.com")
         logger.info("User is on amazon.com")
         logger.info(driver.current_url)
         logger.info(driver.get_cookies())
@@ -28,6 +28,7 @@ def test_case_a(setUp):
 
 
 @allure.step
+@pytest.mark.skip(reason="Skipping..")
 def test_case_b(setUp):
     with allure.step("Facebook login"):
         logger.info("User is entering URL")

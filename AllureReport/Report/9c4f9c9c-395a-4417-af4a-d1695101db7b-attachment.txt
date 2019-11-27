@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_allure_skip.py:24 User is on amazon.com
+[32mINFO    [0m root:test_allure_skip.py:25 https://www.amazon.com/
+[32mINFO    [0m root:test_allure_skip.py:26 [{'domain': 'www.amazon.com', 'expiry': 1577180081, 'httpOnly': False, 'name': 'csm-sid', 'path': '/', 'secure': False, 'value': '360-1526427-5129742'}]
